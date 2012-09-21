@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*~
+.\#*
+.coverage
+.tox
+*.egg-info
